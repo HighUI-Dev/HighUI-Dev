@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Aymane</h1>
-<h3 align="center">I'm a beginner Flutter developer</h3>
+<h3 align="center">I'm a beginner Flutter/Kotlin developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=highui-dev&label=Profile%20views&color=0e75b6&style=flat" alt="highui-dev" /> </p>
 
@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on [WallArt](https://play.google.com/store/apps/details?id=com.highui.wallart)
 
-- 🌱 I’m currently learning **Flutter framework**
+- 🌱 I’m currently learning **Kotlin**
 
-- 📝 I regularly write articles on [https://medium.com/@AlphaSnake_A](https://medium.com/@AlphaSnake_A)
+- 📝 I'm active at Twitter [https://twitter.com/AlphaSnake_A](https://twitter.com/AlphaSnake_A)
 
 - 📫 How to reach me **a.moubarik2005@gmail.com**
 
-- ⚡ Fun fact **Never watched Titanic XD**
+- ⚡ Fun fact **Never watched Game of Thrones XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
