@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Aymane</h1>
-<h3 align="center">I'm a beginner Flutter/Kotlin developer</h3>
+<h3 align="center">I'm an Android Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=highui-dev&label=Profile%20views&color=0e75b6&style=flat" alt="highui-dev" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 📝 I'm active at Twitter [https://twitter.com/AlphaSnake_A](https://twitter.com/AlphaSnake_A)
+- 📝 I'm active on Twitter [Alphasnakee](https://twitter.com/alphasnakee)
 
 - 📫 How to reach me **a.moubarik2005@gmail.com**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alphasnake_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alphasnake_a" height="30" width="40" /></a>
+<a href="https://twitter.com/alphasnakee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alphasnake_a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14488460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14488460" height="30" width="40" /></a>
 <a href="https://instagram.com/alphasnake_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alphasnake_a" height="30" width="40" /></a>
 <a href="https://medium.com/@alphasnake_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alphasnake_a" height="30" width="40" /></a>
